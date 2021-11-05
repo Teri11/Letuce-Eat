@@ -10,11 +10,15 @@ display: flex;
 .open{
     margin: 30px;
     line-height: 60px;
+    color: white;
 }
 .nav{
-    color: #FFFB00;
+    color: rgb(241,148,47);
     margin: 50px;
-    /* display: flex; */
+    display: flex;
     float: right;
     display: inline;
+}
+.phase1{
+    background-color: black;
 }
