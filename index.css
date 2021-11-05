@@ -1,3 +1,20 @@
 html{
     font-style:Roboto ;
 }
+#intro{
+color: orange;
+font-size: small;
+display: flex;
+
+}
+.open{
+    margin: 30px;
+    line-height: 60px;
+}
+.nav{
+    color: #FFFB00;
+    margin: 50px;
+    /* display: flex; */
+    float: right;
+    display: inline;
+}
