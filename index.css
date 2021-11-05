@@ -1,6 +1,10 @@
 html{
     font-style:Roboto ;
 }
+.introduction{
+    background-color: black;
+    height: 600px;
+}
 #intro{
 color: orange;
 font-size: small;
@@ -11,6 +15,10 @@ display: flex;
     margin: 30px;
     line-height: 60px;
     color: white;
+    /* background-color: #FBC130; */
+    height: 300px;
+   
+    
 }
 .nav{
     color: rgb(241,148,47);
@@ -18,7 +26,4 @@ display: flex;
     display: flex;
     float: right;
     display: inline;
-}
-.phase1{
-    background-color: black;
 }
