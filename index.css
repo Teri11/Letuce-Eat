@@ -44,3 +44,31 @@ display: flex;
     color: black;
     font-style: italic;
 }
+.box{
+    background-color: grey;
+  width: 300px;
+  border: 15px ;
+  padding: 50px;
+  margin: 20px;
+}
+.box2{
+    background-color: grey;
+  width: 300px;
+  border: 15px ;
+  padding: 50px;
+  margin: 20px;
+  
+}
+.box3{
+    background-color: grey;
+    width: 300px;
+    border: 15px ;
+    padding: 50px;
+    margin: 20px;
+  }
+
+.boxes{
+background-color:rgb(229,229,229) ;
+
+}
+    
