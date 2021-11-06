@@ -70,16 +70,33 @@ background-color:rgb(229,229,229) ;
     width: 100px;
     margin: 20px;
     /* padding: 30px; */
-    background-color: white;
+    background-color: rgb(255,255,255);
 }
 .row11{
     display: flex;
     float: right;
+    height: 150px;
+    margin: -170px;
+    margin-right: 10px;
+    text-align: center;
+    background-color: rgb(255,255,255);
 }
-.image{
-    width: -462px;
-    height: -393px;
-    /* position: absolute; */
-    /* background-image: url(images/2middle.png); */
-    background-repeat: no-repeat;
+.row111{
+    display: flex;
+    height: 150px;
+    width: 100px;
+    margin: 20px;
+    /* padding: 30px; */
+    background-color:rgb(255,255,255) ;
 }
+.row1111{
+    display: flex;
+    float: right;
+    height: 150px;
+    margin: -170px;
+    margin-right: 10px;
+    text-align: center;
+    background-color:rgb(255,255,255) ;
+}
+
+
