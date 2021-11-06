@@ -45,30 +45,21 @@ display: flex;
     font-style: italic;
 }
 .box{
-    background-color: grey;
+    background-color: white;
   width: 300px;
   border: 15px ;
   padding: 50px;
   margin: 20px;
+  align-items: center;
 }
-.box2{
-    background-color: grey;
-  width: 300px;
-  border: 15px ;
-  padding: 50px;
-  margin: 20px;
-  
-}
-.box3{
-    background-color: grey;
-    width: 300px;
-    border: 15px ;
-    padding: 50px;
-    margin: 20px;
-  }
+
 
 .boxes{
 background-color:rgb(229,229,229) ;
 
 }
-    
+.menu{
+    color: rgb(241,152,47);
+    text-align: center;
+}
+
