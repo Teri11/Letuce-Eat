@@ -66,39 +66,15 @@ background-color:rgb(229,229,229) ;
     text-align: center;
 }
 .row1{
-    display: flex;
-    height: 150px;
+    /* display: flex; */
+    height: 180px;
     width: 100px;
-    margin: 20px;
+    margin: 27px;
     /* padding: 30px; */
     background-color: rgb(255,255,255);
+    
 }
-.row11{
-    display: flex;
-    float: right;
-    height: 150px;
-    margin: -170px;
-    margin-right: 10px;
-    text-align: center;
-    background-color: rgb(255,255,255);
-}
-.row111{
-    display: flex;
-    height: 150px;
-    width: 100px;
-    margin: 20px;
-    /* padding: 30px; */
-    background-color:rgb(255,255,255) ;
-}
-.row1111{
-    display: flex;
-    float: right;
-    height: 150px;
-    margin: -170px;
-    margin-right: 10px;
-    text-align: center;
-    background-color:rgb(255,255,255) ;
-}
+
 .hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/hero\ image.png");
   height: 480px;
@@ -155,6 +131,7 @@ background-color:rgb(229,229,229) ;
     float: left;
     width: 30%;
     padding: 0,10px;
+    margin: 20px;
    
     
 }
@@ -173,4 +150,28 @@ background-color:rgb(229,229,229) ;
     background-color: white;
     text-align: center;
     
+}
+.food{
+    margin: 100px;
+}
+.msosi{
+    /* justify-content: center; */
+    /* text-align: center; */
+    display: flex;
+    position: relative;    
+}
+
+/* .chap{ */
+    /* width: 100%; */
+/* } */
+.food1{
+    display: flex;
+}
+.mainfood{
+    display: flex;
+    margin: 30px;
+       
+}
+.difu{
+    background-color: white;
 }
