@@ -1,5 +1,6 @@
 html{
     font-style:Roboto ;
+    background-color:rgb(229,229,229) ;
 }
 .introduction{
     /* background-color: black; */
@@ -45,14 +46,15 @@ display: flex;
     font-style: italic;
 }
 .box{
-    background-color: white;
-  width: 300px;
-  border: 15px ;
+    background-color: ;
+  width: 200px;
+  border: 55px ;
   padding: 50px;
-  margin: 20px;
+  margin: 50px;
   align-items: center;
+  float: right;
+  border-radius: 20px;
 }
-
 
 .boxes{
 background-color:rgb(229,229,229) ;
@@ -62,4 +64,22 @@ background-color:rgb(229,229,229) ;
     color: rgb(241,152,47);
     text-align: center;
 }
-
+.row1{
+    display: flex;
+    height: 150px;
+    width: 100px;
+    margin: 20px;
+    /* padding: 30px; */
+    background-color: white;
+}
+.row11{
+    display: flex;
+    float: right;
+}
+.image{
+    width: -462px;
+    height: -393px;
+    /* position: absolute; */
+    /* background-image: url(images/2middle.png); */
+    background-repeat: no-repeat;
+}
