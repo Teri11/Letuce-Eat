@@ -2,6 +2,7 @@ html{
     font-style:Roboto ;
     background-color:rgb(229,229,229) ;
     height: 100%;
+   ;
 }
 .introduction{
     /* background-color: black; */
@@ -35,6 +36,8 @@ display: flex;
     float: right;
     display: inline;
     padding: -50px;
+    background-color:black) 
+    
     
     
 }
