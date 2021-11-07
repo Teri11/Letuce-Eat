@@ -14,7 +14,7 @@ html{
 
 }
 #intro{
-color: orange;
+color: #F19201;
 font-size: small;
 display: flex;
 
@@ -29,17 +29,20 @@ display: flex;
     
 }
 .nav{
-    color: rgb(241,148,47);
-    margin: 50px;
+    color:#F19201;
+    margin: 20px;
     display: flex;
     float: right;
     display: inline;
+    padding: -50px;
+    
+    
 }
 .phase1{
     /* opacity: 0.5; */
 }
 .line1{
-    color: rgb(241,152,47);
+    color:#F19201 ;
     text-align: center;
 }
 .p2{
@@ -62,7 +65,7 @@ background-color:rgb(229,229,229) ;
 
 }
 .menu{
-    color: rgb(241,152,47);
+    color: #F19201;
     text-align: center;
 }
 .row1{
